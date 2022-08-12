@@ -1,11 +1,11 @@
 ##   ClonerIT   :       Facebook ID'Z Cloning Tool
 ##   Author     :       SomirIT Pvt. Ltd.
-##   Developer  :       Md. Nabid Ul Islam
-##   Visit      :       https://somirgc.com/somirit
+##   Developer  :       Md. Jahid Ul 
+##   Visit      :       https://Jahid.com/Jahid
 ##
 ##   Find us    :
-##   Facebook   :    https://facebook.com/somirgc.it
-##   WebSite    :    https://somirgc.com/somirit
+##   Facebook   :    https://facebook.com/jahid.it
+##   WebSite    :    https://somirgc.com/Jahid
 ##
 ##   Copyright  :    SomirIT Pvt. Ltd. (https://somirgc.com/somirit) 2022.
 
@@ -401,11 +401,11 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = """
- \x1b[1;97m  ____ _                      ___ _____
- \x1b[1;97m / ___| | ___  _ __   ___ _ _|_ _|_   _|
- \x1b[1;97m| |   | |/ _ \| '_ \ / _ \ '__| |  | |
- \x1b[1;97m| |___| | (_) | | | |  __/ |  | |  | |
- \x1b[1;97m \____|_|\___/|_| |_|\___|_| |___| |_|
+ \x1b[1;97m   
+ \x1b[1;97m
+ \x1b[1;97m
+ \x1b[1;97m
+ \x1b[1;97m
  \x1b[1;97m                        \033[0;91m Version : 1.0
  \x1b[1;97m---------------------------------------------------
  \33[1;41m Tool Created by SomirIT Pvt. Ltd. \33[0m

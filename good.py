@@ -401,7 +401,12 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = """
- \x1b[1;97m   
+ \x1b[1;97m   ________  .__       .___
+\_____  \ |  |    __| _/
+ /   |   \|  |   / __ | 
+/    |    \  |__/ /_/ | 
+\_______  /____/\____ | 
+        \/           \/ 
  \x1b[1;97m
  \x1b[1;97m
  \x1b[1;97m

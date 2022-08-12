@@ -412,9 +412,9 @@ logo = """
  \x1b[1;97m---------------------------------------------------
  \x1b[1;97m[+] ClonerIT  :  Facebook ID'Z Cloning Tool
  \x1b[1;97m[+] Author    :  SomirIT Pvt. Ltd.
- \x1b[1;97m[+] Developer :  Md. Nabid Ul Islam
- \x1b[1;97m[+] Visit     :  https://somirgc.com/somirit
- \x1b[1;97m[+] Contact   :  info.somirgc@gmail.com
+ \x1b[1;97m[+] Developer :  Md. jahid Ul Islam
+ \x1b[1;97m[+] Visit     :  https://Jaid.com/Jahid
+ \x1b[1;97m[+] Contact   :  info.jahidhassan6867@gmail.com
  \x1b[1;97m---------------------------------------------------
 
 """
